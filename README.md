@@ -29,9 +29,10 @@ The following are examples of possible synergies:
 
 ### Offices that provide a public service
 
--
--
--
+- Internal Revenue Systems 
+- US Department of Social and Health Services 
+- Department of Park and Recreations 
+
 
 ### Offices for support of other offices
 
